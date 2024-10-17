@@ -1,0 +1,21 @@
+{
+  "name": "stdappiummarkx",
+  "version": "1.0.0",
+  "description": "Project node to have just the appium local server ",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Gustavo Lucena",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^2.12.0",
+    "appium-doctor": "^1.16.2"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^3.8.0"
+  }
+}
